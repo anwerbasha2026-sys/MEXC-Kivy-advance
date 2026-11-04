@@ -3,7 +3,7 @@ title = MEXC Mobile Scanner
 package.name = mexcmobilescanner
 package.domain = org.nowafapps
 source.dir = .
-source.include_exts = py,png,jpg,kv,atlas,txt,md,ttf,db
+source.include_exts = py,png,jpg,kv,atlas,txt,md
 version = 1.0.0
 requirements = python3,kivy==2.3.1,requests
 orientation = portrait

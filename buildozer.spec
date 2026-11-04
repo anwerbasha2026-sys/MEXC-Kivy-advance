@@ -5,7 +5,7 @@ package.domain = org.nowafapps
 source.dir = .
 source.include_exts = py,png,jpg,kv,atlas,txt,md,ttf,db
 version = 1.0.0
-requirements = python3,kivy==2.3.1,requests,urllib3,charset-normalizer,idna,certifi,arabic-reshaper,python-bidi,openssl,sqlite3
+requirements = python3,kivy==2.3.1,requests
 orientation = portrait
 fullscreen = 0
 android.permissions = INTERNET,ACCESS_NETWORK_STATE,WAKE_LOCK
